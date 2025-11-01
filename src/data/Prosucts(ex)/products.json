@@ -1,0 +1,54 @@
+{
+  "id": "1",
+  "name": "Tailored Stretch Blouse",
+  "category": "blouses",
+  "collection": "newIn",
+  "price": 89.99,
+  "isNew": false,
+  "isBestSeller": true,
+  "inStock": true,
+  "isPlusSize": false,
+  "sizes": ["XS", "S", "M", "L", "XL"],
+  "fabric": "Silk",
+  "colors": ["White", "Black", "Pink"],
+  "images": [
+    "https://example.com/img1.jpg",
+    "https://example.com/img2.jpg"
+  ],
+  "fitting": {
+    "note": "Size up for a bigger fit.",
+    "model": {
+      "height": "5’2”",
+      "usualSize": "XS",
+      "wearingSize": "S"
+    }
+  },
+  "fabricAndCare": {
+    "fabric": "Tailored Stretch, Made in Italy 62% Nylon, 38% Elastane, 100% vegan materials",
+    "care": "Cold machine wash, line dry. Do not tumble dry or dry clean. Do not use bleach or fabric softener."
+  },
+  "productDetail": {
+    "manufactured": "Portugal",
+    "details": [
+      "Bonded details on neckline, hem and sleeves",
+      "Can be worn 5 different ways (Snapped, Wrapped, Tied, Loose, Waterfall)",
+      "Snap fastening at cuffs to adjust sleeve fit",
+      "Inverted box pleat at back"
+    ]
+  },
+  "shippingAndReturn": {
+    "shipping": "Free on US, Canada orders over $175",
+    "returns": "Unwashed, unworn items are eligible for returns or exchanges within 30 days of purchase. Final Sale items are not eligible."
+  },
+  "materialInfo": {
+    "title": "Silk",
+    "description": "This material is our signature high-stretch fabric that drapes like silk and is soft to the touch.",
+    "ecoFacts": [
+      "OEKO-TEX® certified",
+      "Made in Italy in a mill powered by renewable energy (solar and biomass)",
+      "Quick dry",
+      "Chemical free",
+      "Machine washable"
+    ]
+  }
+}
